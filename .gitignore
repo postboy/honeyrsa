@@ -1,0 +1,5 @@
+#exclude a compiled programs and temporary files
+math_check_1/math_check
+math_check_2/math_check
+rsa_test/rsa_test
+*~
